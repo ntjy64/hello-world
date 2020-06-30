@@ -1,2 +1,3 @@
 # hello-world
-first rep
+First repository
+I'm a sport fan
